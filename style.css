@@ -21,13 +21,12 @@ button{
 
 ul.btn{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     bottom: 23%;
     position: absolute;
     z-index: 5;
     width: 119px;
     padding: 0;
-    margin-left: 0px;
     opacity: 0;
     height: 5rem;
 }
