@@ -4,7 +4,6 @@
     margin: 0;
 }
 .container {
-    background: url("hinh-anh-nen-dong-tuyet-roi-dep.gif") top center / cover no-repeat;
     width: 100vw;
     height: -webkit-fill-available;
     margin: -5rem auto;
@@ -29,12 +28,6 @@ ul.btn{
     padding: 0;
     opacity: 0;
     height: 5rem;
-}
-p.dsr {
-    text-align: center;
-    font-size: 2rem;
-    color: initial;
-    text-transform: uppercase;
 }
 
 .quat{
