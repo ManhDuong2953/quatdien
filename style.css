@@ -29,6 +29,7 @@ ul.btn{
     padding: 0;
     margin-left: 0px;
     opacity: 0;
+    height: 5rem;
 }
 p.dsr {
     text-align: center;
